@@ -8,8 +8,11 @@
 
 ### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
 
-- 🔭 I’m currently working on mobile development
-- 🌱 I’m currently learning Dart, 💙 Flutter, IoT and Deno
-- 👯 I currently try to contribute with the organization and structure of Flutter projects that use [**GetX**](https://pub.dev/packages/get) as a state manager, with a pattern proposed by me called [**getx_pattern**](https://kauemurakami.github.io/getx_pattern), and accelerate the development with an extension made for vs code, [**GetX Snippets**](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets), both projects can be found in **this github**, in addition starting to contribute directly to the package.
-- 💬 Ask me about them, open an **issue**
+- 👨🏽‍💻 Acting in the area of Analysis and Web and Mobile development, evaluating and establishing effective standards and methods for the organization of projects.
+
+Analysis and Development of Web and Mobile Systems with the languages and frameworks: JAVA, PHP, Dart, Flutter and IONIC, integrating with SQLSERVER and / or MySQL databases.
+
+Participation in the definition of the system architecture and in the implementation of new projects and the use of agile Scrum methodology in the project.
+
+Good interpersonal skills, teamwork, ease of communication and good adaptation. Passionate about new technologies, mainly focused on mobile development.
 - ⚡ Passionate about new mobile technologies.
