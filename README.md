@@ -10,7 +10,7 @@
 
 - 👨🏽‍💻 Acting in the area of Analysis and Web and Mobile development, evaluating and establishing effective standards and methods for the organization of projects.
 
-Analysis and Development of Web and Mobile Systems with the languages and frameworks: JAVA, PHP, Dart, Flutter and IONIC, integrating with SQLSERVER and / or MySQL databases.
+Analysis and Development of Web and Mobile Systems with the languages and frameworks: JAVA, Spring, PHP, Laravel, Lumen, Dart, Flutter, IONIC, Angular, VueJS among others, integrating with SQL SERVER and / or MySQL databases.
 
 Participation in the definition of the system architecture and in the implementation of new projects and the use of agile Scrum methodology in the project.
 
